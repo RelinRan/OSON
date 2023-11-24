@@ -20,7 +20,7 @@ allprojects {
 /app/build.grade
 ```
 dependencies {
-	 implementation 'com.github.RelinRan:OSON:2023.9.23.1'
+	 implementation 'com.github.RelinRan:OSON:2023.11.24.1'
 }
 ```
 #### Debug
