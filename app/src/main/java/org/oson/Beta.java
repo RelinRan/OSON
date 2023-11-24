@@ -90,7 +90,6 @@ public class Beta<T> {
     private Map<String, Object> map;
     private List<Map<String, JSONObject>> listMap;
 
-
     public Vector getVector() {
         return vector;
     }
